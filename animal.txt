@@ -4,4 +4,6 @@ Unicorn
 Dog
 Lion
 cat
-Horse
+Horse  
+Dogs
+Tiger
